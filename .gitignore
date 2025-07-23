@@ -1,5 +1,6 @@
 # Local .terraform dir
 .terraform/
+/Modules/.terraform
 
 # Terraform state files
 *.tfstate
